@@ -1,4 +1,3 @@
-// components/ContactForm.jsx
 export default function ContactForm() {
   return (
     <div className="flex flex-col md:flex-row items-center md:items-start justify-between p-8 md:p-16 bg-white max-w-7xl mx-auto gap-12">
